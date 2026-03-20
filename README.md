@@ -39,5 +39,5 @@ jupyter notebook flood_analysis.ipynb
 
 ---
 
-**Muhammad Masoom Khan** — Data Analyst | MSF Holland  
+**Muhammad Masoom Khan** — ICT Supervisor | MSF OCA Pakistan  
 [Portfolio](https://masoom-khan.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammadmasoomkhan/)
